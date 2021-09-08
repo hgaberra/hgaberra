@@ -2,6 +2,11 @@
 
 Below is a list of links to CloudFormation Templates, Terraform Templates, scripts and other content to help you get started with Fortinet Solutions in AWS.
 
+
+  - FortiGate Standalone
+      - [CloudFormation](https://github.com/hgaberra/fortigate-aws-standalone-cloudformation)
+	  - Terraform
+
   - FortiGate FGCP HA Dual AZ
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-ha-dualaz-cloudformation)
 	  - Terraform

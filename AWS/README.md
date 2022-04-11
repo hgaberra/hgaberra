@@ -9,6 +9,9 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
   - FortiAnalyzer HA Single AZ
       - [CloudFormation](https://github.com/hgaberra/fortianalyzer-aws-ha-singleaz-cloudformation)
 	  - Terraform
+  - FortiManager Standalone
+      - [CloudFormation](https://github.com/hgaberra/fortimanager-aws-standalone-cloudformation)
+	  - Terraform
   - FortiGate Standalone
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-standalone-cloudformation)
 	  - Terraform

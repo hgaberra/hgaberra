@@ -18,7 +18,7 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
 
   - FortiGate FGCP HA Dual AZ
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-ha-dualaz-cloudformation)
-	  - Terraform
+	  - [Terraform](https://github.com/hgaberra/fortigate-aws-ha-dualaz-terraform)
   - FortiGate FGCP HA Single AZ
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-ha-singleaz-cloudformation)
   - FortiGate & Gateway Load Balancer

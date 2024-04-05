@@ -1,28 +1,14 @@
-# Fortinet Public Cloud Team Repo
+### Welcome to my repo!
 
-## Overview
-
-The purpose of this GitHub account is to host a living document that points to Fortinet solutions for public cloud environments located in this GitHub account and other locations.
-
-The official Fortinet GitHub account is located at [github.com/fortinet](https://github.com/fortinet)
-
-Fortinet public documentation is located at [docs.fortinet.com](https://docs.fortinet.com)
-
-Fortinet solution guides, white papers, etc for public cloud security are located at [www.fortinet.com/aws](https://www.fortinet.com/products/public-cloud-security)
-
-Please click on the links below for public cloud specific solutions:
-- [AWS](./AWS/README.md)
-- [Azure](./Azure/README.md)
-- [Google](./Google/README.md)
-- [Oracle](./Oracle/README.md)
+The purpose of this repo is to host initial solutions and improve on them before moving content to our Fortinet Cloud CSE team repo located here: [FortinetCloudCSE github org](https://github.com/FortinetCloudCSE)
   
-## Support
+### Support
 
 Fortinet-provided scripts in this and other GitHub accounts do not fall under the regular Fortinet technical support scope and are not supported by FortiCare Support Services.
 
 For direct issues, please refer to the issues tab of each individual repo.
 For other questions related to this account, contact [github@fortinet.com](mailto:github@fortinet.com).
 
-## License
+### License
 
 [License](./LICENSE) © Fortinet Technologies. All rights reserved.
